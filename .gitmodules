@@ -1,0 +1,3 @@
+[submodule "standard-animation"]
+	path = standard-animation
+	url = https://github.com/cchamberlain/standard-animation.git

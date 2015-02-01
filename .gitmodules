@@ -1,3 +1,18 @@
 [submodule "standard-animation"]
 	path = standard-animation
 	url = git://github.com/cchamberlain/standard-animation.git
+[submodule "standard-data"]
+	path = standard-data
+	url = git://github.com/cchamberlain/standard-data.git
+[submodule "standard-controls"]
+	path = standard-controls
+	url = git://github.com/cchamberlain/standard-controls.git
+[submodule "standard-metrics"]
+	path = standard-metrics
+	url = git://github.com/cchamberlain/standard-metrics.git
+[submodule "standard-boilerplate"]
+	path = standard-boilerplate
+	url = git://github.com/cchamberlain/standard-boilerplate.git
+[submodule "space"]
+	path = space
+	url = git://github.com/cchamberlain/space.git

@@ -2,6 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/space" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/standard-animation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/standard-boilerplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/standard-controls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/standard-data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/standard-metrics" vcs="Git" />
   </component>
 </project>
